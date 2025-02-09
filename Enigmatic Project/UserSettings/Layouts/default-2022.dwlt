@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1904
     height: 973
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -342,7 +342,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -405,10 +405,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 375}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbfffff0580000
+      m_ExpandedIDs: b6f2ffff1efbffff42590000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -690,9 +690,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.1547976, y: 4.366297, z: 20.96269}
+    m_Target: {x: -0.52026176, y: 5.4807653, z: 8.513542}
     speed: 2
-    m_Value: {x: 2.1547976, y: 4.366297, z: 20.96269}
+    m_Value: {x: -0.52026176, y: 5.4807653, z: 8.513542}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -738,13 +738,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08618063, y: 0.9137129, z: -0.2880579, w: -0.27336425}
+    m_Target: {x: 0.15982556, y: 0.67833465, z: -0.15482427, w: 0.70025015}
     speed: 2
-    m_Value: {x: -0.08618046, y: 0.9137112, z: -0.28805736, w: -0.27336374}
+    m_Value: {x: 0.1636836, y: 0.6744753, z: -0.15713999, w: 0.7025651}
   m_Size:
-    m_Target: 2.056288
+    m_Target: 2.346566
     speed: 2
-    m_Value: 2.056288
+    m_Value: 2.346566
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -810,37 +810,37 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Packages
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Packages
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\homeuser\Documents\GitHub\Enigmatic-Project\Enigmatic
+  m_LastProjectPath: C:\Users\Andrei\Documents\GitHub\Enigmatic-Project\Enigmatic
     Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ffffff7f
-    m_LastClickedID: 2147483647
-    m_ExpandedIDs: 00000000f65b0000f85b000000ca9a3b
+    m_SelectedIDs: 445c0000
+    m_LastClickedID: 23620
+    m_ExpandedIDs: 00000000445c0000465c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Scenes
-      m_OriginalName: Scenes
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 23610
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -854,7 +854,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f65b0000f85b0000
+    m_ExpandedIDs: 00000000445c0000465c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -881,7 +881,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
